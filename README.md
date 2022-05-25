@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web dev., UI/UX design.**
 
-- 💬 Ask me about **C++, UI/UX.**
+- 💬 Ask me about **C++, Java, UI/UX.**
 
 - 📫 How to reach me **shlokjp@gmail.com**
 
