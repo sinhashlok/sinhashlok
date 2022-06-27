@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shlok Sinha</h1>
 <h3 align="center">A designer, developer, coder!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinhashlok" alt="sinhashlok" /></a> </p>
-
 - 🌱 I’m currently learning **UI/UX design and Java.**
 
 - 💬 Ask me about **UI/UX Design, Java, football & anime.**
