@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shlok Sinha</h1>
 <h3 align="center">A designer, developer, coder!</h3>
 
-- 🌱 I’m currently learning **UI/UX design, Web Development and Java.**
+- 🌱 I’m currently learning **Full Stack Development.**
 
-- 💬 Ask me about **UI/UX Design, Web Dev., Java, football & anime.**
+- 💬 Ask me about **Web Dev., Java, football & anime.**
 
 - 📫 How to reach me **shlokjp@gmail.com**
 
